@@ -1,0 +1,22 @@
+# Local deployment settings and secrets
+.vercel/
+.env
+.env.*
+!.env.example
+
+# Local Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Original backups stay local; optimized website assets in dist are tracked
+original-assets/photos.zip
+original-assets/mockup.png
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

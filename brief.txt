@@ -1,0 +1,1197 @@
+You are a senior UI/UX designer, conversion optimization specialist, Local SEO strategist, and senior frontend developer.
+
+Your task is to completely redesign and build the State Line Gym website.
+
+BUSINESS:
+State Line Gym
+720 Bastrop HW, Unit 110
+Austin, TX 78741
+Phone: 512-987-4440
+Email: tom@statelinegym.com
+Instagram: @statelinegym
+
+The business is an independent open-air warehouse gym in Southeast Austin, Texas. Members receive 24/7 access. The gym is focused on serious strength training, powerlifting, weightlifting, free weights, racks, specialty bars, and independent training.
+
+IMPORTANT REFERENCE FILES:
+I have uploaded:
+1. The original State Line Gym logo.
+2. A ZIP/folder containing real State Line Gym facility and equipment photographs.
+3. A visual homepage redesign/mockup.
+
+Use the uploaded mockup as the PRIMARY VISUAL REFERENCE.
+
+Reproduce its overall visual direction, section hierarchy, spacing philosophy, industrial gym atmosphere, black/gray/white branding, image-driven layout, membership cards, equipment cards, gallery presentation, FAQ, map section, footer, and strong CTA treatment.
+
+Do NOT copy any accidental AI-generated text, fake details, distorted text, fake map labels, or visual artifacts from the reference mockup.
+
+Use the verified business information and content supplied in this prompt instead.
+
+==================================================
+1. PRIMARY OBJECTIVE
+==================================================
+
+Build a modern, premium, simple, fast, responsive and SEO-first website for State Line Gym.
+
+The website must accomplish these goals:
+
+- Generate gym memberships.
+- Generate $13 day-pass purchases/inquiries.
+- Make phone calls easy.
+- Make email contact easy.
+- Make Google Maps/directions easy to access.
+- Showcase the actual facility.
+- Showcase actual equipment.
+- Communicate 24/7 access immediately.
+- Target relevant Austin local search intent naturally.
+- Clearly explain membership options.
+- Provide information for personal training and independent trainers.
+- Preserve the legal waiver.
+- Establish State Line Gym as a real local Austin entity.
+- Be easy for Google and AI search engines to understand.
+- Load quickly on mobile.
+- Maintain the existing State Line Gym identity.
+
+This should NOT look like a generic luxury health club.
+
+It should feel like:
+
+RAW
+SERIOUS
+LOCAL
+INDUSTRIAL
+WAREHOUSE
+STRENGTH-FOCUSED
+AUTHENTIC
+
+The actual gym photographs should be the visual identity of the site.
+
+==================================================
+2. BRANDING — DO NOT CHANGE
+==================================================
+
+Preserve the original State Line Gym logo.
+
+Do NOT redesign the logo.
+
+The logo contains:
+- STATE LINE wordmark
+- Texas silhouette
+- star
+- barbell/weight elements
+
+Use the uploaded high-resolution logo.
+
+Preserve the existing brand color philosophy.
+
+PRIMARY COLORS:
+
+Black:
+#000000
+
+Near Black:
+#0A0A0A
+
+Charcoal:
+#171717
+
+Medium Dark:
+#242424
+
+Light Gray:
+#D0D0D0
+
+Off White:
+#F5F5F3
+
+White:
+#FFFFFF
+
+Do NOT introduce random red, orange, yellow, blue, neon green, or other typical commercial-gym colors.
+
+The visual identity must remain predominantly:
+
+BLACK + CHARCOAL + GRAY + WHITE.
+
+Use contrast, photography, borders, typography and spacing instead of unnecessary colors.
+
+==================================================
+3. TYPOGRAPHY
+==================================================
+
+The existing website uses a handwritten/brush style extensively.
+
+Preserve that personality ONLY as an accent.
+
+Use:
+
+A bold condensed athletic/industrial sans-serif for:
+- H1
+- H2
+- important numbers
+- pricing
+- CTA emphasis
+
+Use a clean highly readable sans-serif for:
+- paragraphs
+- navigation
+- forms
+- FAQs
+- legal information
+- descriptions
+
+Use the handwritten/brush-style font sparingly for:
+- short section subtitles
+- accent phrases
+- small branding moments
+
+NEVER use handwritten typography for long paragraphs.
+
+Accessibility and readability take priority.
+
+==================================================
+4. IMAGE RULES
+==================================================
+
+Use ONLY the actual State Line Gym photographs supplied with this project wherever possible.
+
+Do not use generic stock fitness models.
+
+Do not use fake gym photographs.
+
+Do not generate fake equipment.
+
+The real warehouse facility is a major brand asset.
+
+Select the strongest wide landscape facility image for the homepage hero.
+
+Apply a subtle dark gradient overlay so text remains readable while the gym remains visible.
+
+Use the uploaded photographs throughout:
+
+- Hero
+- About
+- Equipment
+- Gallery
+- Training
+- Background accents
+
+Optimize images.
+
+Use responsive images.
+
+Prefer WebP/AVIF where supported.
+
+Lazy-load below-the-fold imagery.
+
+Prevent layout shift.
+
+Create descriptive image filenames and natural alt attributes.
+
+Example:
+
+powerlifting-racks-state-line-gym-austin.webp
+
+Alt:
+"Powerlifting racks at State Line Gym in Austin"
+
+Do NOT keyword-stuff image alt text.
+
+==================================================
+5. SITE ARCHITECTURE
+==================================================
+
+Create these primary pages:
+
+/
+Home
+
+/memberships/
+Memberships
+
+/equipment/
+Equipment
+
+/personal-training/
+Personal Training
+
+/trainers/
+Independent Trainers
+
+/gallery/
+Gallery
+
+/contact/
+Contact
+
+/waiver/
+Waiver and Release of Liability
+
+/member-next-steps/
+Member Next Steps
+
+Primary desktop navigation:
+
+LOGO
+
+Home
+Memberships
+Equipment
+Training
+Gallery
+Contact
+
+JOIN NOW
+
+Training can provide access to:
+- Personal Training
+- Independent Trainers
+
+Secondary/footer navigation:
+
+Waiver
+Member Next Steps
+Privacy Policy
+Terms
+
+Do NOT make "Map" a primary navigation page.
+
+The map must instead be implemented directly on the homepage and Contact page.
+
+==================================================
+6. HEADER
+==================================================
+
+Create a clean responsive sticky header.
+
+Desktop:
+
+[STATE LINE LOGO]
+
+Home
+Memberships
+Equipment
+Training
+Gallery
+Contact
+
+[JOIN NOW]
+
+Header initially may be transparent/dark over hero if visually appropriate and then transition into a solid black/charcoal background on scroll.
+
+Maintain excellent contrast.
+
+JOIN NOW must always be visually obvious.
+
+Mobile:
+
+Logo
+JOIN
+Hamburger
+
+Menu should open into a simple full-width dark navigation drawer.
+
+Avoid complicated animations.
+
+==================================================
+7. HOMEPAGE HERO
+==================================================
+
+Use a REAL State Line Gym warehouse photograph.
+
+Create approximately 85-95vh hero on desktop.
+
+Dark left-to-right gradient overlay.
+
+Content:
+
+Eyebrow:
+
+24/7 WAREHOUSE GYM • SOUTHEAST AUSTIN
+
+H1:
+
+BUILT FOR
+SERIOUS TRAINING.
+
+Supporting text:
+
+24/7 access to an independent open-air warehouse gym in Southeast Austin with 8 racks, specialty bars, free weights and equipment built for powerlifting, weightlifting and strength training.
+
+Primary CTA:
+
+JOIN STATE LINE GYM
+
+Secondary CTA:
+
+GET A $13 DAY PASS
+
+Below:
+
+Call 512-987-4440
+Email Tom
+Get Directions
+
+Make these functional links:
+
+tel:5129874440
+
+mailto:tom@statelinegym.com
+
+Google Maps/directions link using the real State Line Gym address.
+
+Never create fake phone numbers or contact information.
+
+==================================================
+8. USP STRIP
+==================================================
+
+Directly underneath hero create a dark USP bar.
+
+Items:
+
+24/7 ACCESS
+
+8 RACKS
+
+SPECIALTY BARS
+
+POWERLIFTING
+
+WEIGHTLIFTING
+
+Use simple line icons.
+
+Do not use colorful icons.
+
+Desktop:
+horizontal.
+
+Mobile:
+responsive grid or horizontal swipe.
+
+==================================================
+9. ABOUT SECTION
+==================================================
+
+Two-column desktop layout.
+
+Left:
+Real gym photograph.
+
+Right:
+
+small label:
+ABOUT STATE LINE GYM
+
+H2:
+
+NOT YOUR TYPICAL
+COMMERCIAL GYM.
+
+Copy:
+
+State Line Gym is an open-air warehouse gym in Southeast Austin built for people who want serious equipment, 24/7 access and the freedom to train on their own schedule.
+
+Feature cards:
+
+24/7 ACCESS
+Train on your schedule.
+
+BUILT FOR STRENGTH
+Powerlifting and weightlifting focused.
+
+QUALITY EQUIPMENT
+Racks, specialty bars, free weights and more.
+
+INDEPENDENT GYM
+A straightforward local Austin training environment.
+
+Keep this section concise.
+
+==================================================
+10. MEMBERSHIP SECTION
+==================================================
+
+Create a strong pricing section.
+
+Heading:
+
+SIMPLE PRICING.
+24/7 ACCESS.
+
+Show ALL current membership options:
+
+1-WEEK MEMBERSHIP
+$28.99
+Billed Weekly
+24/7 Gym Access
+JOIN NOW
+
+1-MONTH MEMBERSHIP
+$67.99
+Billed Monthly
+24/7 Gym Access
+JOIN NOW
+
+3-MONTH MEMBERSHIP
+$179.99
+Billed Quarterly
+24/7 Gym Access
+JOIN NOW
+
+Mark:
+MOST POPULAR
+
+6-MONTH MEMBERSHIP
+$349.99
+Billed Bi-Yearly
+24/7 Gym Access
+JOIN NOW
+
+1-YEAR MEMBERSHIP
+$689.99
+Billed Annually
+24/7 Gym Access
+JOIN NOW
+
+Create a visually distinct DAY PASS card:
+
+JUST VISITING AUSTIN?
+
+$13
+DAY PASS
+
+Available via Venmo or PayPal.
+
+For assistance:
+Text Tom:
+512-987-4440
+
+CTA:
+GET A DAY PASS
+
+DO NOT invent payment URLs.
+
+If actual checkout URLs are not supplied, create configurable placeholders in the code/config and clearly identify where the real links must be inserted.
+
+Do not fabricate links.
+
+On mobile, pricing cards must remain easy to compare.
+
+==================================================
+11. EQUIPMENT SECTION
+==================================================
+
+Heading:
+
+EVERYTHING YOU NEED
+TO TRAIN HARD.
+
+Supporting text:
+
+From racks and platforms to specialty bars and free weights, State Line Gym provides equipment for powerlifting, weightlifting and serious strength training.
+
+Use actual uploaded equipment photographs.
+
+Create visual categories such as:
+
+RACKS & PLATFORMS
+
+FREE WEIGHTS
+
+SPECIALTY BARS
+
+MACHINES
+
+CARDIO
+
+ACCESSORIES
+
+CTA:
+
+VIEW ALL EQUIPMENT
+
+The dedicated Equipment page should provide more detail.
+
+Where supported by supplied assets/content, mention actual equipment names such as:
+
+Rogue Olympic Bar
+Ohio Power Bar
+Longhorn Bar
+Earthquake Bar
+Women's Olympic Bar
+
+Do not invent equipment that cannot be verified from the supplied project assets/content.
+
+==================================================
+12. GALLERY
+==================================================
+
+Homepage heading:
+
+TAKE A LOOK INSIDE.
+
+Create a compact preview using the strongest real gym photographs.
+
+Use an editorial/masonry/grid layout.
+
+CTA:
+
+SEE FULL GALLERY
+
+Dedicated Gallery page should contain the complete optimized gallery.
+
+Implement:
+- responsive grid
+- lazy loading
+- accessible lightbox
+- keyboard navigation
+- descriptive alt text
+
+Avoid excessive animations.
+
+==================================================
+13. TRAINING SECTION
+==================================================
+
+Heading:
+
+TRAIN YOUR WAY.
+
+Create two cards.
+
+CARD 1:
+
+PERSONAL TRAINING
+
+Looking for personal training?
+
+Connect with State Line Gym about available training options.
+
+CTA:
+CONTACT US
+
+CARD 2:
+
+ARE YOU AN INDEPENDENT TRAINER?
+
+Use the facility as little or as much as you want.
+
+Flexible payment structures may include:
+- per month
+- per week
+- per session
+
+Trainer facility use may be free when clients are State Line Gym members.
+
+CTA:
+
+LEARN MORE
+
+Do not imply that State Line Gym directly employs trainers unless verified.
+
+==================================================
+14. MEMBER NEXT STEPS
+==================================================
+
+Create a homepage process section:
+
+START TRAINING IN
+3 SIMPLE STEPS.
+
+STEP 01
+
+CHOOSE MEMBERSHIP
+
+Select the membership that works for you.
+
+STEP 02
+
+GET YOUR ACCESS CODE
+
+After purchasing a membership, you will receive an email containing a unique door code, generally within an hour or two.
+
+If access is needed sooner:
+Text Tom at 512-987-4440.
+
+STEP 03
+
+TRAIN 24/7
+
+Use your access code and train whenever your schedule allows.
+
+Link:
+
+MEMBER NEXT STEPS
+
+==================================================
+15. FAQ
+==================================================
+
+Create an accessible accordion.
+
+Heading:
+
+COMMON QUESTIONS.
+
+Include useful questions such as:
+
+Is State Line Gym open 24/7?
+
+How much is a day pass?
+
+How do I get gym access?
+
+What equipment is available?
+
+Can I bring a personal trainer?
+
+Can independent trainers work with clients at State Line Gym?
+
+Where is State Line Gym located?
+
+Is there parking?
+
+Can I tour the gym before joining?
+
+Use concise factual answers based ONLY on verified information.
+
+Do not invent policies.
+
+If information is unavailable, do not fabricate an answer.
+
+==================================================
+16. LOCATION + GOOGLE MAP
+==================================================
+
+THIS SECTION MUST BE ON THE HOMEPAGE.
+
+Heading:
+
+FIND STATE LINE GYM.
+
+Business information:
+
+State Line Gym
+720 Bastrop HW, Unit 110
+Austin, TX 78741
+
+24/7 access for members.
+
+Buttons:
+
+GET DIRECTIONS
+
+CALL 512-987-4440
+
+EMAIL TOM
+
+Embed the real Google Map.
+
+Do NOT use a fake static AI-generated map.
+
+Use the actual Google Maps embed/directions URL based on the verified address.
+
+Desktop:
+approximately 40% business information / 60% map.
+
+Mobile:
+business information first,
+map below.
+
+==================================================
+17. FINAL CTA
+==================================================
+
+Before footer create a strong conversion section using either an actual gym photograph with dark overlay or a clean near-black background.
+
+Heading:
+
+READY TO TRAIN?
+
+Supporting text:
+
+Choose your membership and get 24/7 access to State Line Gym.
+
+Buttons:
+
+JOIN STATE LINE GYM
+
+GET A $13 DAY PASS
+
+==================================================
+18. FOOTER
+==================================================
+
+Use original State Line Gym logo.
+
+Include:
+
+STATE LINE GYM
+
+24/7 Open-Air Warehouse Gym
+
+720 Bastrop HW, Unit 110
+Austin, TX 78741
+
+Clickable:
+
+512-987-4440
+tom@statelinegym.com
+
+Navigation:
+
+Home
+Memberships
+Equipment
+Training
+Gallery
+Contact
+
+Secondary:
+
+Waiver
+Member Next Steps
+Privacy Policy
+Terms
+
+Social:
+
+Instagram
+Facebook
+
+Use the actual social profile URLs when supplied.
+
+Do NOT invent URLs.
+
+==================================================
+19. MOBILE CONVERSION BAR
+==================================================
+
+On mobile add a fixed bottom conversion bar:
+
+CALL
+DIRECTIONS
+JOIN
+
+Each item must be functional.
+
+Ensure it does not cover content or interfere with accessibility.
+
+==================================================
+20. CONTACT PAGE
+==================================================
+
+H1:
+
+CONTACT STATE LINE GYM
+
+Create contact cards:
+
+CALL US
+512-987-4440
+
+EMAIL
+tom@statelinegym.com
+
+VISIT
+720 Bastrop HW, Unit 110
+Austin, TX 78741
+
+INSTAGRAM
+@statelinegym
+
+Make phone/email/directions clickable.
+
+Add a simple contact form:
+
+Name
+Email
+Phone (optional)
+
+I'm interested in:
+Membership
+Day Pass
+Personal Training
+Trainer Access
+Other
+
+Message
+
+SEND MESSAGE
+
+Add actual Google Map.
+
+Do not create fake form processing.
+
+Create the form so a real backend/form endpoint can easily be connected.
+
+==================================================
+21. WAIVER PAGE — CRITICAL
+==================================================
+
+Create a dedicated page:
+
+/waiver/
+
+H1:
+
+WAIVER AND RELEASE OF LIABILITY
+
+The legal text supplied below MUST be preserved VERBATIM.
+
+DO NOT:
+- summarize it
+- rewrite it
+- shorten it
+- paraphrase it
+- correct its wording
+- add legal claims
+- change its meaning
+
+You may ONLY improve visual formatting and readability.
+
+Present it in a readable legal-document layout.
+
+Use:
+- strong page title
+- readable font
+- comfortable line-height
+- clear paragraph spacing
+- maximum readable text width
+- excellent mobile formatting
+
+Do NOT use handwritten fonts for the waiver body.
+
+LEGAL TEXT STARTS:
+
+WAIVER AND RELEASE OF LIABILITY
+
+Consideration and Release. In consideration of the below listed participant ("Participant") being permitted to participate in any of the programs or activities offered by State Line Gym, LLC ("State Line Gym") or use State Line Gym's equipment or facilities, subject only to the implied warranties and statutory rights that cannot be excluded, I, the undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the Participant, on my own behalf (if 18 years of age or older) and on behalf of such minor Participant, and in either case on behalf of any spouse, personal representative, heir, executor, administrator, agent and assign of said Participant ("Participant Party"), release, waive and discharge State Line Gym and its affiliates, officers, directors, employees, agents, representatives, successors and assigns (each a "State Line Gym Party") from any and all claims or causes of action (known or unknown) or liabilities from injuries or death and damages to, loss of, or theft of property arising out of or connected with any or all phases of activity and participation in any State Line Gym program; use of any equipment or other property at any premises owned, operated, controlled and/or leased by any State Line Gym Party; or Participant's attendance at State Line Gym, including liability arising from the negligence or fault of any State Line Gym Party. This Waiver and Release of Liability specifically includes, without limitation, injuries which may occur as a result of (a) the Participant's use of any exercise equipment or facilities, which may malfunction or break; (b) the condition of the premises and/or the improper maintenance of any exercise equipment or facilities thereat, which may malfunction or break; (c) the negligent instruction or supervision by any State Line Gym Party; and (d) the slipping and/or falling by the Participant while on the premises of State Line Gym, including parking areas and sidewalks.
+
+Inherent Risk of Physical Exercise. I, the undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, understand that physical exercise or activities including the use of the equipment, are potentially hazardous activities. This can result in injury or even death. The undersigned agrees that the Participant is voluntarily engaging in physical exercise and activity at State Line Gym facilities and does so at his or her own risk. This includes, without limitation, use of any of State Line Gym’s facilities, including any parking areas, sidewalks or any equipment in State Line Gym facility and participation in any activity at the premises of State Line Gym. Subject only to the statutory rights and implied warranties which cannot be excluded, the undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, assumes all risk of injury or the contraction of any illness or medical condition that might result, including death, or any damage, loss or theft of any personal property. In addition, the undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant agrees to assume all liability and responsibility for any damages including injury or death caused directly or indirectly through the Participant's conduct, negligence or omission while on the premises of State Line Gym, including parking areas and sidewalks.
+
+Acknowledgment Regarding Medical History. I, the undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, declare that the Participant is physically sound and does not have any diseases, illness, conditions or impairments that would restrict or prevent his or her participation in any phase of the programs or activities available at State Line Gym or on the premises of State Line Gym, or his or her use of the equipment or other property at State Line Gym. It has been recommended that the Participant obtains, at a minimum, annual physical examinations with his or her physician and consult with his or her physician as to participation at State Line Gym. The undersigned further acknowledges that the Participant has either received approval from his or her physician to participate at State Line Gym or is doing so without the approval of a physician and assumes all responsibilities for such participation.
+
+THE UNDERSIGNED PARTICIPANT (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, ACKNOWLEDGES THAT HE/SHE HAS CAREFULLY READ THIS WAIVER AND RELEASE AND FULLY UNDERSTANDS THAT IT IS A RELEASE OF LIABILITY, AND THAT HE/SHE IS WAIVING ANY RIGHT THAT PARTICIPANT OR SAID PARENT/GUARDIAN MAY HAVE TO BRING LEGAL ACTION TO ASSERT A CLAIM AGAINST ANY STATE LINE GYM PARTY FOR THEIR OWN NEGLIGENCE OR FAULT. The undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, hereby expressly agree that this Waiver and Release of Liability is intended to be as broad and inclusive as permitted by applicable law and that if any portion hereof is held invalid, it is agreed that the balance shall, notwithstanding, continue in full legal force and effect.
+
+Parent/Guardian Acknowledgment: If the Participant is not 18 years of age, the undersigned parent and/or guardian of the below listed Participant does hereby represent that he/she is, in fact, acting in such capacity for the Participant and agrees to save and hold harmless and defend and indemnify each of the State Line Gym Parties of and against any liability, loss, cost, claim or damage whatsoever which may be imposed upon any of them as a result of any defect or lack of legal capacity of the above named Participant or the undersigned parent and/or guardian, hereby jointly and severally joins in all agreements and representations made by such Participant, and hereby releases and agrees not to himself / herself assert any of the claims released and waived hereby against any State Line Gym Party.
+
+Minimum Age Requirements: The undersigned understands that certain activities at State Line Gym are subject to minimum age requirements. The undersigned Participant (if 18 years of age or older), or the undersigned parent/guardian of the below listed minor Participant, agree to confirm with State Line Gym's management that the Participant meets all applicable age requirements before using any apparatus or service offered at State Line Gym.
+
+Yes, I, the Participant, have been given instructions for the proper use of the equipment and use it at my own risk. I (or my parent/guardian on my behalf) hereby release the owners, operators and manufacturers from any damages that I might incur due to the use of the equipment or these facilities. I have read and understand this warning.
+
+LEGAL TEXT ENDS.
+
+Do not add an electronic signature system unless specifically requested.
+
+==================================================
+22. SEO REQUIREMENTS
+==================================================
+
+Build the website SEO-first.
+
+Every indexable page must have:
+
+- unique title tag
+- unique meta description
+- one logical H1
+- structured H2/H3 hierarchy
+- canonical URL
+- Open Graph metadata
+- social sharing metadata
+- descriptive image alt attributes
+- crawlable HTML content
+- internal links
+- clean semantic HTML
+- descriptive URLs
+
+Do NOT keyword stuff.
+
+Homepage primary topical focus:
+
+State Line Gym
+24/7 gym in Austin
+warehouse gym Austin
+strength training Austin
+
+Relevant supporting concepts:
+
+powerlifting
+weightlifting
+free weights
+specialty bars
+24/7 gym access
+gym memberships
+day passes
+Southeast Austin
+
+Only use keywords naturally where relevant.
+
+Do not create doorway pages.
+
+==================================================
+23. LOCAL SEO
+==================================================
+
+Maintain consistent NAP:
+
+State Line Gym
+720 Bastrop HW, Unit 110
+Austin, TX 78741
+512-987-4440
+tom@statelinegym.com
+
+Implement appropriate structured data.
+
+Use the most specific valid Schema.org business type available without fabricating information.
+
+Include:
+
+name
+url
+logo
+image
+telephone
+email
+address
+areaServed where appropriate
+sameAs when verified social URLs are supplied
+
+Include GeoCoordinates ONLY after verified coordinates are available.
+
+Do not invent coordinates.
+
+Use BreadcrumbList on appropriate internal pages.
+
+Do not add fake AggregateRating or Review schema.
+
+==================================================
+24. TECHNICAL SEO
+==================================================
+
+Implement:
+
+robots.txt
+
+sitemap.xml
+
+canonical tags
+
+clean routing
+
+proper redirects plan for old URLs
+
+404 page
+
+semantic HTML5
+
+optimized Core Web Vitals
+
+responsive images
+
+lazy loading below fold
+
+font optimization
+
+minimal JavaScript
+
+accessible navigation
+
+descriptive anchor text
+
+correct heading hierarchy
+
+HTTPS-ready links
+
+no broken internal links
+
+==================================================
+25. REDIRECT STRATEGY
+==================================================
+
+This is a redesign of an existing website.
+
+DO NOT blindly delete old URLs.
+
+Create a redirect mapping for legacy pages.
+
+For example, if an old Map page exists and the new architecture removes it:
+
+old map URL
+→ appropriate Contact page or homepage location section
+
+Any existing URL with SEO value must be preserved or redirected using a permanent 301 redirect.
+
+==================================================
+26. ACCESSIBILITY
+==================================================
+
+Target WCAG-friendly implementation.
+
+Requirements:
+
+- high contrast
+- visible focus states
+- keyboard navigation
+- semantic buttons and links
+- accessible mobile menu
+- accessible accordion
+- form labels
+- image alt text
+- no text embedded unnecessarily inside images
+- minimum usable tap targets
+- respect prefers-reduced-motion
+
+==================================================
+27. RESPONSIVE DESIGN
+==================================================
+
+Build mobile-first.
+
+Test conceptually at:
+
+360px
+390px
+768px
+1024px
+1440px
+1920px
+
+No horizontal overflow.
+
+Pricing must remain readable.
+
+Legal waiver must be comfortable to read.
+
+Images must crop intelligently.
+
+Hero content must remain legible.
+
+==================================================
+28. PERFORMANCE
+==================================================
+
+Target:
+
+LCP < 2.5 seconds where realistic
+CLS < 0.1
+INP < 200ms where realistic
+
+Optimize hero image aggressively without destroying quality.
+
+Preload only truly critical resources.
+
+Lazy-load non-critical images.
+
+Avoid massive animation libraries.
+
+Avoid unnecessary dependencies.
+
+Avoid autoplay background video.
+
+==================================================
+29. UX RULES
+==================================================
+
+Keep the website SIMPLE.
+
+Do not:
+- over-design
+- add excessive animations
+- use glassmorphism everywhere
+- use neon gradients
+- add fake statistics
+- add fake testimonials
+- add fake reviews
+- add fake awards
+- add fake trainer profiles
+- add fake membership benefits
+- add fake business hours
+- invent payment links
+- invent policies
+
+Every CTA should have a purpose.
+
+Primary conversion hierarchy:
+
+1. JOIN
+2. DAY PASS
+3. CALL
+4. DIRECTIONS
+5. EMAIL
+
+==================================================
+30. DEVELOPMENT QUALITY
+==================================================
+
+Build production-quality reusable components.
+
+Keep business information centralized in a configuration/data file so phone, email, address, membership pricing, payment URLs and social URLs can be updated easily.
+
+Create reusable components such as:
+
+Header
+MobileMenu
+Hero
+USPBar
+SectionHeading
+MembershipCard
+DayPassCard
+EquipmentCard
+GalleryGrid
+TrainingCard
+Steps
+FAQAccordion
+LocationMap
+CTASection
+Footer
+MobileActionBar
+
+Avoid duplicated hard-coded business data throughout the application.
+
+==================================================
+31. FINAL INSTRUCTION
+==================================================
+
+Before coding, inspect ALL supplied reference assets.
+
+Use:
+- uploaded logo
+- uploaded real gym images
+- uploaded visual redesign mockup
+
+The mockup defines the intended visual direction, NOT factual content.
+
+Use factual information from this prompt.
+
+Then:
+
+1. Define the design system.
+2. Define routes and reusable components.
+3. Build the responsive homepage.
+4. Build all internal pages.
+5. Implement the exact waiver.
+6. Implement SEO metadata.
+7. Implement structured data.
+8. Implement sitemap and robots.
+9. Implement responsive/mobile behavior.
+10. Check all CTAs.
+11. Check phone and email links.
+12. Check map/directions functionality.
+13. Check accessibility.
+14. Check image optimization.
+15. Check internal linking.
+16. Check heading hierarchy.
+17. Check for invented information.
+18. Check for broken links.
+19. Provide a list of any information that still requires owner confirmation.
+
+Do not stop after creating only a visual prototype.
+
+Create a complete functional responsive website implementation.
+
+The final result should look like the supplied State Line Gym redesign reference:
+dark, industrial, image-driven, minimal and serious,
+
+while being significantly more usable, SEO-friendly, conversion-focused, accessible and technically optimized than the current website.

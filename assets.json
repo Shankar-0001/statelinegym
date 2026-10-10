@@ -1,0 +1,794 @@
+[
+  {
+    "src": "/assets/open-air-warehouse-training-floor-state-line-gym-1400.webp",
+    "small": "/assets/open-air-warehouse-training-floor-state-line-gym-600.webp",
+    "alt": "Open-air warehouse training floor at State Line Gym",
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "src": "/assets/open-air-warehouse-training-floor-state-line-gym-360.webp",
+        "width": 360,
+        "height": 270
+      },
+      {
+        "src": "/assets/open-air-warehouse-training-floor-state-line-gym-600.webp",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "src": "/assets/open-air-warehouse-training-floor-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "src": "/assets/dumbbell-racks-and-free-weights-state-line-gym-1400.webp",
+    "small": "/assets/dumbbell-racks-and-free-weights-state-line-gym-600.webp",
+    "alt": "Dumbbell racks and free weights at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/dumbbell-racks-and-free-weights-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/dumbbell-racks-and-free-weights-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/dumbbell-racks-and-free-weights-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/power-rack-and-lifting-platform-state-line-gym-1400.webp",
+    "small": "/assets/power-rack-and-lifting-platform-state-line-gym-600.webp",
+    "alt": "Power rack and lifting platform at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/power-rack-and-lifting-platform-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/power-rack-and-lifting-platform-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/power-rack-and-lifting-platform-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/strength-training-racks-state-line-gym-1400.webp",
+    "small": "/assets/strength-training-racks-state-line-gym-600.webp",
+    "alt": "Strength training racks at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/strength-training-racks-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/strength-training-racks-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/strength-training-racks-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/warehouse-squat-racks-state-line-gym-1400.webp",
+    "small": "/assets/warehouse-squat-racks-state-line-gym-600.webp",
+    "alt": "Warehouse squat racks at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/warehouse-squat-racks-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/warehouse-squat-racks-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/warehouse-squat-racks-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/bench-and-lifting-rack-state-line-gym-1400.webp",
+    "small": "/assets/bench-and-lifting-rack-state-line-gym-600.webp",
+    "alt": "Bench and lifting rack at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/bench-and-lifting-rack-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/bench-and-lifting-rack-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/bench-and-lifting-rack-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/weight-plates-and-strength-equipment-state-line-gym-1400.webp",
+    "small": "/assets/weight-plates-and-strength-equipment-state-line-gym-600.webp",
+    "alt": "Weight plates and strength equipment at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/weight-plates-and-strength-equipment-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/weight-plates-and-strength-equipment-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/weight-plates-and-strength-equipment-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/training-station-in-the-warehouse-state-line-gym-1400.webp",
+    "small": "/assets/training-station-in-the-warehouse-state-line-gym-600.webp",
+    "alt": "Training station in the warehouse at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/training-station-in-the-warehouse-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/training-station-in-the-warehouse-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/training-station-in-the-warehouse-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/strength-equipment-against-the-warehouse-wall-state-line-gym-1400.webp",
+    "small": "/assets/strength-equipment-against-the-warehouse-wall-state-line-gym-600.webp",
+    "alt": "Strength equipment against the warehouse wall at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/strength-equipment-against-the-warehouse-wall-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/strength-equipment-against-the-warehouse-wall-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/strength-equipment-against-the-warehouse-wall-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/cable-machine-state-line-gym-1400.webp",
+    "small": "/assets/cable-machine-state-line-gym-600.webp",
+    "alt": "Cable machine at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/cable-machine-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/cable-machine-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/cable-machine-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/bench-and-weight-plates-state-line-gym-1400.webp",
+    "small": "/assets/bench-and-weight-plates-state-line-gym-600.webp",
+    "alt": "Bench and weight plates at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/bench-and-weight-plates-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/bench-and-weight-plates-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/bench-and-weight-plates-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/plate-loaded-strength-machine-state-line-gym-1400.webp",
+    "small": "/assets/plate-loaded-strength-machine-state-line-gym-600.webp",
+    "alt": "Plate-loaded strength machine at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/plate-loaded-strength-machine-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/plate-loaded-strength-machine-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/plate-loaded-strength-machine-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/seated-strength-machine-state-line-gym-1400.webp",
+    "small": "/assets/seated-strength-machine-state-line-gym-600.webp",
+    "alt": "Seated strength machine at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/seated-strength-machine-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/seated-strength-machine-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/seated-strength-machine-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/cardio-equipment-state-line-gym-1400.webp",
+    "small": "/assets/cardio-equipment-state-line-gym-600.webp",
+    "alt": "Cardio equipment at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/cardio-equipment-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/cardio-equipment-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/cardio-equipment-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/specialty-bars-stored-on-the-wall-state-line-gym-1400.webp",
+    "small": "/assets/specialty-bars-stored-on-the-wall-state-line-gym-600.webp",
+    "alt": "Specialty bars stored on the wall at State Line Gym",
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "src": "/assets/specialty-bars-stored-on-the-wall-state-line-gym-360.webp",
+        "width": 360,
+        "height": 270
+      },
+      {
+        "src": "/assets/specialty-bars-stored-on-the-wall-state-line-gym-600.webp",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "src": "/assets/specialty-bars-stored-on-the-wall-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "src": "/assets/strength-training-equipment-state-line-gym-1400.webp",
+    "small": "/assets/strength-training-equipment-state-line-gym-600.webp",
+    "alt": "Strength training equipment at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/strength-training-equipment-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/strength-training-equipment-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/strength-training-equipment-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/warehouse-access-ramp-state-line-gym-1400.webp",
+    "small": "/assets/warehouse-access-ramp-state-line-gym-600.webp",
+    "alt": "Warehouse access ramp at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/warehouse-access-ramp-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/warehouse-access-ramp-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/warehouse-access-ramp-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/equipment-along-the-training-floor-state-line-gym-1400.webp",
+    "small": "/assets/equipment-along-the-training-floor-state-line-gym-600.webp",
+    "alt": "Equipment along the training floor at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/equipment-along-the-training-floor-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/equipment-along-the-training-floor-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/equipment-along-the-training-floor-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/bars-and-plates-state-line-gym-1400.webp",
+    "small": "/assets/bars-and-plates-state-line-gym-600.webp",
+    "alt": "Bars and plates at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/bars-and-plates-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/bars-and-plates-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/bars-and-plates-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/training-accessories-state-line-gym-1400.webp",
+    "small": "/assets/training-accessories-state-line-gym-600.webp",
+    "alt": "Training accessories at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/training-accessories-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/training-accessories-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/training-accessories-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/barbell-storage-state-line-gym-1400.webp",
+    "small": "/assets/barbell-storage-state-line-gym-600.webp",
+    "alt": "Barbell storage at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/barbell-storage-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/barbell-storage-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/barbell-storage-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/gym-access-keypad-state-line-gym-1400.webp",
+    "small": "/assets/gym-access-keypad-state-line-gym-600.webp",
+    "alt": "Gym access keypad at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/gym-access-keypad-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/gym-access-keypad-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/gym-access-keypad-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/dumbbells-state-line-gym-1400.webp",
+    "small": "/assets/dumbbells-state-line-gym-600.webp",
+    "alt": "Dumbbells at State Line Gym",
+    "width": 1400,
+    "height": 1050,
+    "variants": [
+      {
+        "src": "/assets/dumbbells-state-line-gym-360.webp",
+        "width": 360,
+        "height": 270
+      },
+      {
+        "src": "/assets/dumbbells-state-line-gym-600.webp",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "src": "/assets/dumbbells-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "src": "/assets/100-pound-weight-plate-state-line-gym-1400.webp",
+    "small": "/assets/100-pound-weight-plate-state-line-gym-600.webp",
+    "alt": "100-pound weight plate at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/100-pound-weight-plate-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/100-pound-weight-plate-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/100-pound-weight-plate-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/ohio-power-bar-state-line-gym-1400.webp",
+    "small": "/assets/ohio-power-bar-state-line-gym-600.webp",
+    "alt": "Ohio Power Bar at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/ohio-power-bar-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/ohio-power-bar-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/ohio-power-bar-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/barbell-end-cap-state-line-gym-1400.webp",
+    "small": "/assets/barbell-end-cap-state-line-gym-600.webp",
+    "alt": "Barbell end cap at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/barbell-end-cap-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/barbell-end-cap-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/barbell-end-cap-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/earthquake-bar-state-line-gym-1400.webp",
+    "small": "/assets/earthquake-bar-state-line-gym-600.webp",
+    "alt": "Earthquake Bar at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/earthquake-bar-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/earthquake-bar-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/earthquake-bar-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/rogue-olympic-bar-state-line-gym-1400.webp",
+    "small": "/assets/rogue-olympic-bar-state-line-gym-600.webp",
+    "alt": "Rogue Olympic Bar at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/rogue-olympic-bar-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/rogue-olympic-bar-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/rogue-olympic-bar-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/specialty-bar-grip-state-line-gym-1400.webp",
+    "small": "/assets/specialty-bar-grip-state-line-gym-600.webp",
+    "alt": "Specialty bar grip at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/specialty-bar-grip-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/specialty-bar-grip-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/specialty-bar-grip-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/olympic-bar-end-cap-state-line-gym-1400.webp",
+    "small": "/assets/olympic-bar-end-cap-state-line-gym-600.webp",
+    "alt": "Olympic bar end cap at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/olympic-bar-end-cap-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/olympic-bar-end-cap-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/olympic-bar-end-cap-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/fringe-women-s-olympic-bar-state-line-gym-1400.webp",
+    "small": "/assets/fringe-women-s-olympic-bar-state-line-gym-600.webp",
+    "alt": "Fringe Women\u2019s Olympic Bar at State Line Gym",
+    "width": 1050,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/fringe-women-s-olympic-bar-state-line-gym-360.webp",
+        "width": 270,
+        "height": 360
+      },
+      {
+        "src": "/assets/fringe-women-s-olympic-bar-state-line-gym-600.webp",
+        "width": 450,
+        "height": 600
+      },
+      {
+        "src": "/assets/fringe-women-s-olympic-bar-state-line-gym-1400.webp",
+        "width": 1050,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/longhorn-bar-state-line-gym-1400.webp",
+    "small": "/assets/longhorn-bar-state-line-gym-600.webp",
+    "alt": "Longhorn Bar at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/longhorn-bar-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/longhorn-bar-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/longhorn-bar-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  },
+  {
+    "src": "/assets/specialty-bar-end-cap-state-line-gym-1400.webp",
+    "small": "/assets/specialty-bar-end-cap-state-line-gym-600.webp",
+    "alt": "Specialty bar end cap at State Line Gym",
+    "width": 1400,
+    "height": 1400,
+    "variants": [
+      {
+        "src": "/assets/specialty-bar-end-cap-state-line-gym-360.webp",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "src": "/assets/specialty-bar-end-cap-state-line-gym-600.webp",
+        "width": 600,
+        "height": 600
+      },
+      {
+        "src": "/assets/specialty-bar-end-cap-state-line-gym-1400.webp",
+        "width": 1400,
+        "height": 1400
+      }
+    ]
+  }
+]

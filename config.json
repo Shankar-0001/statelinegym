@@ -1,0 +1,13 @@
+{
+  "name":"State Line Gym", "phone":"512-987-4440", "email":"tom@statelinegym.com", "address":"720 Bastrop HW, Unit 110", "city":"Austin", "region":"TX", "postalCode":"78741",
+  "origin":"",
+  "instagram":"https://www.instagram.com/statelinegym/", "facebook":null,
+  "contactEndpoint":null, "dayPassCheckout":null,
+  "memberships":[
+    {"name":"1-Week", "price":"28.99", "billing":"Weekly", "checkout":null},
+    {"name":"1-Month", "price":"67.99", "billing":"Monthly", "checkout":null},
+    {"name":"3-Month", "price":"179.99", "billing":"Quarterly", "checkout":null, "popular":true},
+    {"name":"6-Month", "price":"349.99", "billing":"Bi-Yearly", "checkout":null},
+    {"name":"1-Year", "price":"689.99", "billing":"Annually", "checkout":null}
+  ]
+}
